@@ -1,8 +1,6 @@
 #include "GUI/Simple_window.h"
 #include "GUI/Graph.h"
 
-// g++ drill12.cpp GUI/Graph.cpp GUI/Window.cpp GUI/GUI.cpp GUI/Simple_window.cpp -o drill12 `fltk-config --ldflags --use-images`
-// TODO: Comment, change elements(color, pos, size etc.)
 int main()
 try {
 
