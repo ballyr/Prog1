@@ -1,0 +1,10 @@
+apple 1 30.9872
+pizza 2 781.7
+laptop 3 105.202
+table 4 732.583
+pen 5 409.388
+Honda 6 678.286
+water_bottle 7 428.826
+gloves 8 447.771
+steering_wheel 9 770.936
+keyboard 10 207.285
